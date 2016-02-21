@@ -6,7 +6,7 @@ RewriteEngine On
 # RewriteBase
 # ------------------------------------------------------------------------------
 # Ensure this matches your _site_root
-RewriteBase /
+RewriteBase /nyes-stat/
 
 
 # ------------------------------------------------------------------------------

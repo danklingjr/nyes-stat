@@ -18,7 +18,7 @@ _license_key:
 _language: en
 
 # Only set this if Statamic could not correctly guess your site's root
-_site_root: /
+_site_root: /nyes-stat/
 
 # Name of your site
 _site_name: Another Awesome Statamic Site
